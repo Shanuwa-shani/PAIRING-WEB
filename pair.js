@@ -8,16 +8,13 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULLY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GuhailTechInfo/MEGA-AI
+https://github.com/Queen-zani/Queen-Zani-test/fork
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Global_TechInfo
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://whatsapp.com/channel/0029Vb6pI1VBqbrIwyeZr12t
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
 
-*MEGA-AI--WHATSAPP* 🥀
+*Queen-zani--WHATSAPP* 🥀
 `;
 
 const uploadToPastebin = require('./Paste');  // Assuming you have a function to upload to Pastebin
